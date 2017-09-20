@@ -14,7 +14,7 @@ Runhua
 * Finding the leading hospital in terms of spending based on the US zones?  
 * Finding the amount spent in each state and grouping it under highest and lowest claim states?  
 
-## 2 Projected effort allocation and tentative timeline  
+## 2. Projected effort allocation and tentative timeline  
 
 **Task -**     Data Cleaning and Documentation - _Due Date - 10/18_  
 **Subtasks -**  
@@ -88,10 +88,10 @@ Runhua
          
 
 
-## 3 Targeted Audience: -  
+## 3. Targeted Audience: -  
 * US Health Government 
 
-## 4 Gantt Chart: -  
+## 4. Gantt Chart: -  
 
 <object data="https://github.com/vnikesh/8086-002---Project/blob/master/Support%20files/DataCreative_WorkPlan%26RQ_ProjectPlan_Gant_Chart.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/vnikesh/8086-002---Project/blob/master/Support%20files/DataCreative_WorkPlan%26RQ_ProjectPlan_Gant_Chart.pdf">
